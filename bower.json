@@ -1,0 +1,9 @@
+{
+  "name": "tabledraw",
+  "version": "0.1",
+  "dependencies": {
+    "requirejs": "2.1.x",
+    "use.js": "https://github.com/tbranyen/use.js.git",
+    "momentjs": "~2.2.1"
+  }
+}
